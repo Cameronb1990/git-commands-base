@@ -4,8 +4,7 @@ public class HomePage {
 
     // class for locators
 
-    // home page search bar
+    // home page
 
-    // contact me page link
-
+    //contact me page link.
 }
